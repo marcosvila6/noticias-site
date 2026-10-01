@@ -4,5 +4,12 @@
   "compatibility_date": "2026-10-01",
   "assets": {
     "directory": "./public"
-  }
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "noticias-db",
+      "database_id": "0bc5f590-9968-46ea-b626-71608b27044c"
+    }
+  ]
 }
